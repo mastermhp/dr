@@ -261,9 +261,9 @@ export default function FeaturesSection() {
                 <div className="bg-gray-900/50 rounded-lg p-4 border border-gray-800">
                   <div className="flex justify-between items-start mb-2">
                     <div className="flex items-center gap-8">
-                      <div className="bg-black w-64 h-72">
+                      {/* <div className="bg-black w-64 h-72">
                         <Calendar className="h-1 w-1 text-purple-700" />
-                      </div>
+                      </div> */}
                       <div className="flex flex-col gap-4 justify-center items-center ">
                         <span className="font-medium">Meeting Scheduling</span>
                         <p className="text-sm text-gray-400 w-[360px] mb-3">

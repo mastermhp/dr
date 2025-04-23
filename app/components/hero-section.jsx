@@ -48,7 +48,7 @@ export default function HeroSection() {
               </span>
             </div>
             <h1 className="text-4xl md:text-7xl font-bold mb-6">
-              Your <span className="gradient-text neon-text">Digital Replica</span>
+              Your <span className="gradient-text neon-text">Intelecx AI</span>
               <br />
               Powered by AI
             </h1>

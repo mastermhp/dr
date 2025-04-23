@@ -72,7 +72,7 @@ export default function Footer() {
             </h2>
             <p className="text-gray-300 text-lg mb-8 max-w-xl">
               Join thousands of professionals who are saving time and increasing productivity with their AI-powered
-              digital replicas.
+              Intelecx AIs.
             </p>
             <motion.button className="cybr-btn" whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
               Get Started Now
@@ -86,10 +86,10 @@ export default function Footer() {
           >
             <div className="flex items-center mb-6">
               <div className="w-12 h-12 rounded-full neon-glow flex items-center justify-center bg-black mr-4">
-                <span className="text-xl font-bold gradient-text">DR</span>
+                <span className="text-xl font-bold gradient-text">IA</span>
               </div>
               <div>
-                <h3 className="text-xl font-bold">Digital Replica</h3>
+                <h3 className="text-xl font-bold">Intelecx AI</h3>
                 <p className="text-gray-400">Your AI-powered digital twin</p>
               </div>
             </div>
@@ -154,7 +154,7 @@ export default function Footer() {
                 <Sparkles className="h-4 w-4 text-pink-500 mr-2" /> Demo Mode
               </h4>
               <p className="text-xs text-gray-400">
-                This is a fully functional demo of Digital Replica. All features are available for exploration without
+                This is a fully functional demo of Intelecx AI. All features are available for exploration without
                 backend connections.
               </p>
             </motion.div>
@@ -169,7 +169,7 @@ export default function Footer() {
         >
           <div className="flex flex-col md:flex-row justify-between items-center">
             <motion.p variants={itemVariants} className="text-gray-400 mb-4 md:mb-0 flex items-center">
-              © {new Date().getFullYear()} Digital Replica. Made with <Heart className="h-4 w-4 text-pink-500 mx-1" />{" "}
+              © {new Date().getFullYear()} Intelecx AI. Made with <Heart className="h-4 w-4 text-pink-500 mx-1" />{" "}
               by AI enthusiasts.
             </motion.p>
             <motion.div variants={itemVariants} className="flex space-x-4">

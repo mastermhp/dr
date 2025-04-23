@@ -25,7 +25,7 @@ export default function TaskSection() {
     {
       sender: "ai",
       content:
-        "Hello! I'm your Digital Replica. I've received a job offer from tech-recruiter@company.com. Would you like me to draft a response?",
+        "Hello! I'm your Intelecx AI. I've received a job offer from tech-recruiter@company.com. Would you like me to draft a response?",
     },
     {
       sender: "user",

@@ -161,7 +161,7 @@ export default function Dashboard() {
       <div className="flex flex-col gap-8 p-4 md:p-8">
         <div className="flex flex-col md:flex-row justify-between items-start md:items-center">
           <div>
-            <h1 className="text-3xl font-bold mb-2">Welcome to your Digital Replica</h1>
+            <h1 className="text-3xl font-bold mb-2">Welcome to your Intelecx AI</h1>
             <p className="text-gray-400">Your AI assistant is ready to help you manage tasks and communications.</p>
           </div>
           <div className="mt-4 md:mt-0 flex items-center space-x-2">

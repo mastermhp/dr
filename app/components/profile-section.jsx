@@ -182,7 +182,7 @@ export default function ProfileSection() {
                 Demo Mode Active
               </h4>
               <p className="text-sm text-gray-400">
-                You're experiencing the Digital Replica in demo mode. All features are functional for demonstration
+                You're experiencing the Intelecx AI in demo mode. All features are functional for demonstration
                 purposes without requiring backend connections.
               </p>
             </div>

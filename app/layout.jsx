@@ -6,8 +6,8 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" })
 const spaceGrotesk = Space_Grotesk({ subsets: ["latin"], variable: "--font-space" })
 
 export const metadata = {
-  title: "Digital Replica - Next-Gen AI Twin",
-  description: "Your AI-powered digital replica with advanced 3D interface",
+  title: "Intelecx AI - Next-Gen AI Twin",
+  description: "Your AI-powered Intelecx AI with advanced 3D interface",
 }
 
 export default function RootLayout({ children }) {

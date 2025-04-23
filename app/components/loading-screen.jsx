@@ -47,8 +47,8 @@ export default function LoadingScreen() {
         transition={{ duration: 0.5 }}
         className="text-center"
       >
-        <h1 className="text-4xl md:text-6xl font-bold mb-8 gradient-text glitch" title="DIGITAL REPLICA">
-          DIGITAL REPLICA
+        <h1 className="text-4xl md:text-6xl font-bold mb-8 gradient-text glitch" title="Intelecx AI">
+          Intelecx AI
         </h1>
 
         <div className="w-64 md:w-96 h-2 bg-gray-800 rounded-full mb-4 overflow-hidden">

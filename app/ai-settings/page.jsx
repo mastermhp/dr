@@ -1136,7 +1136,7 @@ export default function AISettingsPage() {
                         </p>
                         <div className="bg-black/50 p-3 rounded-md border border-gray-800 text-sm">
                           <p>
-                            "Hello! I'm Aveline, your AI Digital Replica. I'm here to assist you with tasks, communications, and project management. How can I help you today?"
+                            "Hello! I'm Aveline, your AI Intelecx AI. I'm here to assist you with tasks, communications, and project management. How can I help you today?"
                           </p>
                         </div>
                         <button className="mt-3 w-full px-3 py-2 bg-black/50 border border-pink-500/30 rounded-md hover:bg-pink-500/10 transition-all duration-300 text-sm flex items-center justify-center">

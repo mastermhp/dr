@@ -41,7 +41,7 @@
   --radius-lg: var(--radius);
   --radius-xl: calc(var(--radius) + 4px);
 
-  /* Digital Replica Custom Colors */
+  /* Intelecx AI Custom Colors */
   --color-neon-pink: var(--neon-pink);
   --color-neon-purple: var(--neon-purple);
   --color-neon-blue: var(--neon-blue);
@@ -84,7 +84,7 @@
   --sidebar-border: oklch(0.929 0.013 255.508);
   --sidebar-ring: oklch(0.704 0.04 256.788);
 
-  /* Digital Replica Custom Colors - Light Theme */
+  /* Intelecx AI Custom Colors - Light Theme */
   --neon-pink: oklch(0.7 0.25 0);
   --neon-purple: oklch(0.6 0.25 300);
   --neon-blue: oklch(0.7 0.2 240);
@@ -126,7 +126,7 @@
   --sidebar-border: oklch(1 0 0 / 10%);
   --sidebar-ring: oklch(0.7 0.25 0); /* Deep Pink */
 
-  /* Digital Replica Custom Colors - Dark Theme */
+  /* Intelecx AI Custom Colors - Dark Theme */
   --neon-pink: oklch(0.7 0.25 0);
   --neon-purple: oklch(0.6 0.25 300);
   --neon-blue: oklch(0.7 0.2 240);

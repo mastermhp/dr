@@ -41,7 +41,7 @@ export default function Navbar() {
               transition={{ duration: 0.5 }}
               className="w-10 h-10 rounded-full neon-glow flex items-center justify-center bg-black"
             >
-              <span className="text-xl font-bold gradient-text">DR</span>
+              <span className="text-xl font-bold gradient-text">IA</span>
             </motion.div>
             <motion.h1
               initial={{ opacity: 0, x: -20 }}
@@ -49,7 +49,7 @@ export default function Navbar() {
               transition={{ duration: 0.5, delay: 0.2 }}
               className="text-xl font-bold gradient-text"
             >
-              Digital Replica
+              Intelecx AI
             </motion.h1>
           </div>
         </Link>

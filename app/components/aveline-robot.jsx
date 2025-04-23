@@ -10,7 +10,7 @@ export default function AvelineRobot() {
   const [talking, setTalking] = useState(false)
   const [listening, setListening] = useState(false)
   const [transcript, setTranscript] = useState("")
-  const [response, setResponse] = useState("Hello! I'm your AI Digital Replica. How can I assist you today?")
+  const [response, setResponse] = useState("Hello! I'm your AI Intelecx AI. How can I assist you today?")
 
   // Speech recognition setup
   useEffect(() => {
@@ -82,7 +82,7 @@ export default function AvelineRobot() {
       if (input.includes("hello") || input.includes("hi")) {
         return "Hello there! It's nice to talk with you."
       } else if (input.includes("name")) {
-        return "I'm your AI Digital Replica. You can call me Aveline."
+        return "I'm your AI Intelecx AI. You can call me Aveline."
       } else if (input.includes("how are you")) {
         return "I'm functioning perfectly, thank you for asking! How are you doing today?"
       } else if (input.includes("what can you do")) {

@@ -139,7 +139,7 @@ export default function AutomationSection() {
               Your AI Twin Works <span className="gradient-text">While You Rest</span>
             </h3>
             <p className="text-gray-300 mb-8">
-              With Digital Replica's advanced automation capabilities, your AI twin continues to work on your behalf
+              With Intelecx AI's advanced automation capabilities, your AI twin continues to work on your behalf
               even when you're offline. Set your comfort level and let AI handle routine tasks.
             </p>
 

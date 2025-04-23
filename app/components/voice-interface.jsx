@@ -15,7 +15,7 @@ export default function VoiceInterface({
     <div className="absolute bottom-0 left-0 right-0 z-10 p-4 pointer-events-none">
       <div className="bg-black/70 backdrop-blur-md border border-pink-500/30 rounded-xl p-3 mx-auto max-w-xs pointer-events-auto">
         <div className="mb-3">
-          <h3 className="text-sm font-bold text-white mb-1 gradient-text">AI Digital Replica</h3>
+          <h3 className="text-sm font-bold text-white mb-1 gradient-text">AI Intelecx AI</h3>
           <div className="h-12 overflow-y-auto bg-gray-900/50 rounded-lg p-2 mb-2 border border-pink-500/20 text-xs">
             <p className="text-gray-300">{response}</p>
           </div>

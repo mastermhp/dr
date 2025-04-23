@@ -61,9 +61,9 @@ export default function DashboardLayout({ children }) {
           <div className="flex items-center justify-between h-16 px-4 border-b border-gray-800">
             <Link href="/" className="flex items-center space-x-2">
               <div className="w-8 h-8 rounded-full neon-glow flex items-center justify-center bg-black">
-                <span className="text-lg font-bold gradient-text">DR</span>
+                <span className="text-lg font-bold gradient-text">IA</span>
               </div>
-              <span className="text-xl font-bold gradient-text">Digital Replica</span>
+              <span className="text-xl font-bold gradient-text">Intelecx AI</span>
             </Link>
             <button className="lg:hidden text-gray-400 hover:text-white" onClick={() => setSidebarOpen(false)}>
               <X className="h-5 w-5" />
